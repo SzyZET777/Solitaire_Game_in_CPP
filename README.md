@@ -2,3 +2,12 @@
 Solitaire Game made in C++ with ncurses library
 
 <img width="298" height="270" alt="Screenshot 2026-06-14 at 16 24 26" src="https://github.com/user-attachments/assets/56532f1d-0ac6-4875-81ed-f52df1aefcc9" />
+
+Insturctions:
+```
+> Download all code from this repository as a ZIP file
+> Unzip it into a folder
+> Open the unzipped folder in terminal
+> Type "bash make.sh" to compile and run the app
+> Controls are explained in-game in Polish
+```
